@@ -1,3 +1,3 @@
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Adri's Circuit Homepage
 description: Bookmark this to keep an eye on my project updates!!!

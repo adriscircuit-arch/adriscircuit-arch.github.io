@@ -1,7 +1,7 @@
 ---
 title: Blog Archive
 layout: posts
-permalink: /blog/
+permalink: /posts/
 show_excerpts: true
 entries_layout: list
 ---
